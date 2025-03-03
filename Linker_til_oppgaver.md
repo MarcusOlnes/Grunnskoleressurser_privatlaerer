@@ -5,5 +5,5 @@
 <br>
 <a href="https://ndla.no/nb/r/norsk-yf/stor-eller-liten-forbokstav/5247090037"> Stor eller liten forbokstav?</a>
 <br>
-<a href="http://elevrom.sprakradet.no/"> Nynorsk kartleggingstest, øvinger og minigrammatikk!</a>
+<a href="http://elevrom.sprakradet.no/"> Nynorsk kartleggingstest, øvingar og minigrammatikk!</a>
 
