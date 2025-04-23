@@ -8,5 +8,7 @@
 <h3> They're vs Their vs There </h3>
 
 They're = they are = de holder på med noe. Eksempel: **They're** playing football.
+</br>
 Their = deres. Eksempel: **Their** football team.
+</br>
 There = der. Eksempel: Are you guys plating over **there**?
