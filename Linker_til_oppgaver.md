@@ -21,3 +21,8 @@
 <a href="https://ndla.no/nb/e/engelsk-sf/working-with-grammar/ef29171e1a"> Flere ressurser for engelsk grammatikk</a>
 <br>
 
+<h3>Matte </h3>
+<a href="https://www.youtube.com/watch?v=wYgWAzQt5ds"> Hvordan huske delingsalgoritmen!</a>
+<br>
+
+
